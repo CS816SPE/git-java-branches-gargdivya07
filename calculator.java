@@ -3,6 +3,7 @@ class calculator
 {
 public static void main(String []args)
 {
+	//addition and subtraction calculator
   int a,b;
   char operation;
  Scanner in = new Scanner(System.in);
